@@ -1,0 +1,15 @@
+body {
+	background-color: #F0F0F0;
+	text-align: center;
+}
+
+#canvas {
+	border: 1px solid #000000;
+	background-color: #39addd;
+}
+
+#placar {
+	font-size: 200%;
+	margin-bottom: 10px;
+}
+
